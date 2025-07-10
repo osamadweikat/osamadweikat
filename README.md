@@ -10,7 +10,6 @@
 ## 💫 About Me:
 👨‍💻 I'm a Computer Engineering student at **An-Najah National University**  
 🧠 Passionate about building full-stack and mobile applications using modern technologies  
-🔭 Currently working on: **Traffic Department System** and **HopeConnect**  
 🚀 Always seeking new challenges and learning opportunities  
 📫 Reach me at: **osamadweikat83@gmail.com**
 
