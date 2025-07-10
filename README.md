@@ -35,38 +35,7 @@
 
 ---
 
-## 🚀 My Projects:
 
-### 🛣️ Traffic Department Management System
-> Technologies: Node.js, Express.js, Flutter, JWT, MySQL, Firebase  
-A multi-role platform (citizen/employee/admin) that offers:
-- License renewals  
-- Ownership transfers  
-- Fine tracking  
-- Appointment booking  
-- AI assistant (Gemini) for citizen support  
-🔗 [Frontend Repo](https://github.com/osamadweikat/Traffic-Department-Frontend)  
-🔗 [Backend Repo](https://github.com/osamadweikat/Traffic-Department-Backend)
-
----
-
-### 💖 HopeConnect – Donation Platform
-> Technologies: Node.js, Express.js, MySQL, JWT  
-A backend system to:
-- Manage donations and orphan sponsorships  
-- Track and match volunteers  
-🔗 [GitHub Repo](https://github.com/osamadweikat/Hopeconnect)
-
----
-
-### 💬 ChattingApp
-> Technologies: Flutter, Firebase  
-A real-time mobile chat app with:
-- Authentication  
-- Realtime messaging  
-🔗 [GitHub Repo](https://github.com/osamadweikat/Chat-App)
-
----
 
 ## 🌐 Connect With Me:
 
