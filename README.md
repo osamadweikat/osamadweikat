@@ -56,7 +56,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=osamadweikat&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages" />
