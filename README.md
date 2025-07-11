@@ -55,14 +55,19 @@
 
 ## 📊 GitHub Stats:
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Repositories-25-blue?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Commits-1500-green?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Stars-120-yellow?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Forks-30-orange?style=for-the-badge" /></td>
+  </tr>
+</table>
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Total%20Commits-1500-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stars-120-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Forks-30-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-brightgreen?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me:
