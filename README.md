@@ -55,16 +55,12 @@
 
 ## 📊 GitHub Stats:
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Repositories-25-blue?style=for-the-badge" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Commits-1500-green?style=for-the-badge" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Stars-120-yellow?style=for-the-badge" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Forks-30-orange?style=for-the-badge" /></td>
-  </tr>
-</table>
+<p align="center">
+  🔹 <b>Total Repositories:</b> 25 &nbsp;&nbsp;&nbsp;
+  🔹 <b>Total Commits:</b> 1500+ <br><br>
+  ⭐ <b>Stars:</b> 120 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🍴 <b>Forks:</b> 30
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
