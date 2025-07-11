@@ -56,10 +56,11 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Commits-1500-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stars-120-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forks-30-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-brightgreen?style=for-the-badge" />
 </p>
 
 ---
