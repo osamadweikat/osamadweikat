@@ -55,12 +55,20 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  🔹 <b>Total Repositories:</b> 25 &nbsp;&nbsp;&nbsp;
-  🔹 <b>Total Commits:</b> 1500+ <br><br>
-  ⭐ <b>Stars:</b> 120 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🍴 <b>Forks:</b> 30
-</p>
+<div style="background:#0d1117; color:white; padding:20px; width:420px; border-radius:10px; font-family:sans-serif; border:1px solid #30363d; display:flex; align-items:center; justify-content:space-between;">
+  <div>
+    <h3 style="margin:0 0 10px;">Osama Dweikat's GitHub Stats</h3>
+    <p>Total Stars Earned: <strong>120</strong></p>
+    <p>Total Commits (2025): <strong>1500+</strong></p>
+    <p>Total PRs: <strong>70</strong></p>
+    <p>Total Issues: <strong>10</strong></p>
+    <p>Contributed to (last year): <strong>15</strong></p>
+  </div>
+  <div style="width:80px; height:80px; border-radius:50%; border:8px solid #21262d; border-top:8px solid #58a6ff; display:flex; align-items:center; justify-content:center; font-size:20px; font-weight:bold;">
+    A
+  </div>
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
