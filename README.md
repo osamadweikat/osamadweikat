@@ -2,12 +2,12 @@
 <h3 align="center">Full Stack Developer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💫 About Me:
+## 💫 About Me
 👨‍💻 I'm a Computer Engineering student at **An-Najah National University**  
 🧠 Passionate about building full-stack and mobile applications using modern technologies  
 🚀 Always seeking new challenges and learning opportunities  
@@ -17,8 +17,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <!-- أمثلة على مهاراتك -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -30,23 +29,29 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=osamadweikat&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=osamadweikat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osamadweikat&theme=tokyonight&no-frame=true&row=1&column=5&no-bg=true&exclude=Stars,Issues,Reviews" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=osamadweikat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=5&title=Commits,Repositories,Followers,PullRequest,Experience"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/osamadweikat/osamadweikat/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/osamadweikat/osamadweikat/blob/output/snake-dark.svg" />
+    <img alt="Contribution Snake" src="https://github.com/osamadweikat/osamadweikat/blob/output/snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -60,5 +65,5 @@
 ---
 
 ## 🧠 Languages
-- 🇵🇸 Arabic: Native  
-- 🇬🇧 English: Upper-Intermediate  
+- 🇵🇸 **Arabic**: Native  
+- 🇬🇧 **English**: Upper-Intermediate  
