@@ -7,6 +7,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=osamadweikat&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 ## 💫 About Me
 👨‍💻 I'm a Computer Engineering student at **An-Najah National University**  
 🧠 Passionate about building full-stack and mobile applications using modern technologies  
@@ -68,6 +72,18 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=osamadweikat&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osamadweikat&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
