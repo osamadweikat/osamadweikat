@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=FF7F50&labelColor=141321&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h1 align="center">✨ Hi, I'm Osama Dweikat 👋</h1>
+<h1 align="center">Hi, I'm Osama Dweikat 👋</h1>
+
 <h3 align="center">Full Stack Developer | Computer Engineering Student</h3>
 
 <p align="center">
@@ -15,8 +16,7 @@
 👨‍💻 I'm a Computer Engineering student at **An-Najah National University**  
 🧠 Passionate about building full-stack and mobile applications using modern technologies  
 🚀 Always seeking new challenges and learning opportunities  
-📫 Reach me at: **osamadweikat83@gmail.com**  
-
+📫 Reach me at: **osamadweikat83@gmail.com**
 
 ---
 
@@ -59,31 +59,28 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&bg_color=141321&title_color=FF7F50&text_color=00FFFF&icon_color=FFD700" alt="GitHub Stats"/>
 </p>
 
----
+<hr/>
 
 ## 🧩 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&bg_color=0D1117&title_color=FFD700&text_color=00CED1" alt="Top Languages"/>
 </p>
 
----
+<hr/>
 
 ## 🔥 Current Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=osamadweikat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=osamadweikat&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FF6347&sideNums=FFD700&sideLabels=FF6347" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=osamadweikat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=5&title=Commits,Repositories,Followers,PullRequest,Experience"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=osamadweikat&theme=juicyfresh&no-frame=true&row=1&column=5" />
 </p>
 
 ---
