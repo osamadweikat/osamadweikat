@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
+<!-- Profile views (eye + number-only badge) -->
+<p align="center">
+  <samp>👁️ Profile Views</samp>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=osamadweikat&style=flat&color=9C27B0&label=" alt="profile views"/>
+</p>
+
 ---
 
 ## 💫 About Me
@@ -57,12 +64,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-### 🧩 Most Used Languages
+<hr/>
+
+## 🧩 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-### 🔥 Current Streak
+<hr/>
+
+## 🔥 Current Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=osamadweikat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
