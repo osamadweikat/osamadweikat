@@ -8,10 +8,11 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=8A2BE2&labelColor=141321&style=for-the-badge" 
+    src="https://visitor-badge.laobi.icu/badge?page_id=osamadweikat.osamadweikat&left_color=141321&right_color=8A2BE2" 
     alt="Profile Views"
   />
 </p>
+
 
 
 
