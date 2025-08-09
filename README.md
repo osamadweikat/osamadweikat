@@ -1,17 +1,15 @@
-<table width="100%">
-  <tr>
-    <td width="260" align="left" valign="middle">
-      <img
-        src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=8A2BE2&labelColor=141321&style=for-the-badge"
-        alt="Profile Views"
-      />
-    </td>
-    <td align="center">
-      <h1>Hi, I'm Osama Dweikat 👋</h1>
-    </td>
-    <td width="260"></td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <div>
+    <img
+      src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=8A2BE2&labelColor=141321&style=for-the-badge"
+      alt="Profile Views"
+    />
+  </div>
+  <div style="text-align: center; flex-grow: 1;">
+    <h1>Hi, I'm Osama Dweikat 👋</h1>
+  </div>
+  <div style="width: 260px;"></div>
+</div>
 
 <h3 align="center">Full Stack Developer | Computer Engineering Student</h3>
 
