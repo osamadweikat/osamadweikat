@@ -7,11 +7,14 @@
 
 
 <p align="center">
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=osamadweikat.osamadweikat&left_color=141321&right_color=8A2BE2" 
-    alt="Profile Views"
-  />
+  <a href="https://hits.seeyoufarm.com">
+    <img
+      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fosamadweikat%2Fosamadweikat&count_bg=%238A2BE2&title_bg=%23141321&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false"
+      alt="Profile Views"
+    />
+  </a>
 </p>
+
 
 
 
