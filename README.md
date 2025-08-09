@@ -17,7 +17,6 @@
 🚀 Always seeking new challenges and learning opportunities  
 📫 Reach me at: **osamadweikat83@gmail.com**  
 
-> *"Code is like humor. When you have to explain it, it’s bad."*  
 
 ---
 
