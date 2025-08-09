@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=osamadweikat&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=9C27B0&style=for-the-badge" alt="profile views badge"/>
+</p>
 
 ---
 
@@ -77,7 +77,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osamadweikat&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=osamadweikat&theme=radical&no-frame=true&no-bg=true&margin-w=8&exclude=Stars,Issues,Reviews" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/osamadweikat/osamadweikat/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
