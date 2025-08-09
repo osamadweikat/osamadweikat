@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=00FFF7&labelColor=141321&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=FF7F50&labelColor=141321&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <h1 align="center">Hi, I'm Osama Dweikat 👋</h1>
