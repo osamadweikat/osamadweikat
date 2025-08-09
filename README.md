@@ -1,13 +1,21 @@
-<h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=8A2BE2&labelColor=141321&style=for-the-badge" alt="Profile Views" />
-  &nbsp;Hi, I'm Osama Dweikat 👋
-</h1>
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle" width="200">
+      <img src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=8A2BE2&labelColor=141321&style=for-the-badge" alt="Profile Views" />
+    </td>
+    <td align="center">
+      <h1>Hi, I'm Osama Dweikat 👋</h1>
+    </td>
+    <td width="200"></td>
+  </tr>
+</table>
 
 <h3 align="center">Full Stack Developer | Computer Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
+
 
 
 
