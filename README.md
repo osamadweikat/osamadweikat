@@ -5,12 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
-<!-- Profile views (eye + number-only badge) -->
+
 <p align="center">
-  <samp>👁️ Profile Views</samp>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=osamadweikat&style=flat&color=9C27B0&label=" alt="profile views"/>
+  <a href="https://hits.seeyoufarm.com">
+    <img 
+      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fosamadweikat%2Fosamadweikat&count_bg=%238A2BE2&title_bg=%23141321&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" 
+      alt="Profile Views"
+    />
+  </a>
 </p>
+
 
 ---
 
