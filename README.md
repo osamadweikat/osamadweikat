@@ -59,14 +59,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&hide_border=true&bg_color=0B1220&title_color=88C0D0&text_color=D8DEE9&icon_color=B48EAD" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=00E5FF" alt="GitHub Stats"/>
 </p>
 
 <hr/>
 
 ## 🧩 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&hide_border=true&bg_color=0B1220&title_color=FF7F50&text_color=E5E7EB" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&hide_border=true&bg_color=1E003E&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
 </p>
 
 <hr/>
