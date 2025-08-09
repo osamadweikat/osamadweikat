@@ -1,14 +1,27 @@
-<h1 align="center">Hi, I'm Osama Dweikat 👋</h1>
+<table width="100%">
+  <tr>
+    <!-- البادج يسار -->
+    <td width="160" align="left" valign="middle">
+      <a href="https://hits.seeyoufarm.com" title="Profile Views">
+        <img
+          src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fosamadweikat&count_bg=%2306B6D4&title_bg=%23141321&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"
+          alt="Profile Views" height="24"
+        />
+      </a>
+    </td>
+
+    <!-- الاسم بالنص -->
+    <td align="center">
+      <h1>Hi, I'm Osama Dweikat 👋</h1>
+    </td>
+
+    <!-- خانة فارغة توازن التخطيط -->
+    <td width="160"></td>
+  </tr>
+</table>
+
 <h3 align="center">Full Stack Developer | Computer Engineering Student</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=8A2BE2&labelColor=141321&style=for-the-badge" />
-</p>
 
 
 
