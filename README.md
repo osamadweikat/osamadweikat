@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Osama Dweikat 👋 </h1>
+<h1 align="center">Hi, I'm Osama Dweikat 👋</h1>
 <h3 align="center">Full Stack Developer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💫 About Me:
+## 💫 About Me
 👨‍💻 I'm a Computer Engineering student at **An-Najah National University**  
 🧠 Passionate about building full-stack and mobile applications using modern technologies  
 🚀 Always seeking new challenges and learning opportunities  
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight&cache_seconds=1" />
@@ -62,7 +62,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 🌐 Connect With Me:
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=osamadweikat&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:osamadweikat83@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -71,17 +80,15 @@
 
 ---
 
-## 📚 Education:
+## 📚 Education
 
-🎓 B.Sc. in Computer Engineering  
-An-Najah National University  
+🎓 **B.Sc. in Computer Engineering**  
+**An-Najah National University**  
 📍 2020 – 2025
 
 ---
 
-## 🧠 Languages:
+## 🧠 Languages
 
-- 🇵🇸 Arabic: Native  
-- 🇬🇧 English: Upper-Intermediate  
-
----
+- 🇵🇸 **Arabic**: Native  
+- 🇬🇧 **English**: Upper-Intermediate  
