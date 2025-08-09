@@ -66,7 +66,7 @@
 
 ## 🧩 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&hide_border=true&bg_color=1E003E&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&bg_color=000000&title_color=800000&text_color=F5DEB3&icon_color=FF6347" alt="Top Languages"/>
 </p>
 
 <hr/>
