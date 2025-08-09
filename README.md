@@ -2,14 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=osamadweikat&label=PROFILE%20VIEWS&color=FF7F50&labelColor=141321&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h1 align="center">Hi, I'm Osama Dweikat 👋</h1>
-
+<h1 align="center">✨ Hi, I'm Osama Dweikat 👋</h1>
 <h3 align="center">Full Stack Developer | Computer Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Web+%26+Mobile+Developer;Passionate+about+Tech+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -17,7 +15,9 @@
 👨‍💻 I'm a Computer Engineering student at **An-Najah National University**  
 🧠 Passionate about building full-stack and mobile applications using modern technologies  
 🚀 Always seeking new challenges and learning opportunities  
-📫 Reach me at: **osamadweikat83@gmail.com**
+📫 Reach me at: **osamadweikat83@gmail.com**  
+
+> *"Code is like humor. When you have to explain it, it’s bad."*  
 
 ---
 
@@ -63,14 +63,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-<hr/>
+---
 
 ## 🧩 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<hr/>
+---
 
 ## 🔥 Current Streak
 <p align="center">
