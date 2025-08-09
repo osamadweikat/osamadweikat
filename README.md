@@ -77,12 +77,17 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osamadweikat&theme=radical&no-frame=true&no-bg=true&margin-w=8&exclude=Stars,Issues,Reviews" />
+  <!-- اخترنا التروفيز اللي بدك وبس (بدون Stars/Issues/Reviews) -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=osamadweikat&theme=radical&no-frame=true&no-bg=true&margin-w=8&title=Commits,Repositories,Followers,PullRequest,Experience"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
+<!-- سيظهر بعد تشغيل الـ Action أدناه -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/osamadweikat/osamadweikat/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
