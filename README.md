@@ -99,8 +99,9 @@
 
 ## 🔥 Current Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=osamadweikat&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FF6347&sideNums=FFD700&sideLabels=FF6347" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=osamadweikat&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FF6347&sideNums=FFD700&sideLabels=FF6347" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
