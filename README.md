@@ -6,10 +6,6 @@
 
 <h3 align="center">Full Stack Developer | Computer Engineer</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 💫 About Me
@@ -108,7 +104,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&count_private=true&hide_border=true&theme=radical](https://github-readme-stats-fast.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight)" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" alt="Typing SVG" />
 </p>
 
 
