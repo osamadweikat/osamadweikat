@@ -116,7 +116,7 @@
 
 ## 🧩 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&hide_border=true&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osamadweikat&theme=tokyonight" />
 </p>
 
 <hr/>
