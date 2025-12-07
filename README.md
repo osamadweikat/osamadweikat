@@ -108,7 +108,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/?username=osamadweikat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osamadweikat&theme=tokyonight" />
 </p>
 
 
