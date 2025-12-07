@@ -107,14 +107,11 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" alt="Typing SVG" />
 </p>
 
-
-
-
 <hr/>
 
 ## 🧩 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=tokyonight" alt="Typing SVG" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=dark" alt="Typing SVG" />
 </p>
 
 
