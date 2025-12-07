@@ -108,15 +108,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osamadweikat&theme=cobalt2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osamadweikat&theme=tokyonight" />
 </p>
 
 <hr/>
 
 ## 🧩 Most Used Languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osamadweikat&theme=cobalt2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osamadweikat&theme=tokyonight" />
 </p>
+
 
 <hr/>
 
