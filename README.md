@@ -108,7 +108,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osamadweikat&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osamadweikat&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 
