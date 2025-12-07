@@ -116,8 +116,9 @@
 
 ## 🧩 Most Used Languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osamadweikat&theme=tokyonight" />
+  <img src="https://github-readme-stats-peach-two-53.vercel.app/api/top-langs/?username=osamadweikat&layout=pie&theme=tokyonight" />
 </p>
+
 
 <hr/>
 
