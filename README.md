@@ -117,9 +117,10 @@
 ## 🧩 Most Used Languages
 <p align="center">
   <img 
-    src="https://github-readme-stats-peach-two-53.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=transparent&bg_color=000033&title_color=FFD580&text_color=FFD580&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&hide_progress=true&theme=transparent&bg_color=000033&title_color=FFD580&text_color=FFD580&cache_seconds=1800" 
   />
 </p>
+
 
 
 
