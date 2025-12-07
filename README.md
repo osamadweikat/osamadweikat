@@ -115,14 +115,14 @@
 
 ## 🧩 Most Used Languages
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=transparent&bg_color=000033&title_color=FFD580&text_color=FFD580&cache_seconds=1800">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osamadweikat&show_icons=true&hide_border=true" />
 </p>
 
 <hr/>
 
 ## 🔥 Current Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=osamadweikat&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FF6347&sideNums=FFD700&sideLabels=FF6347" alt="GitHub Streak"/>
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osamadweikat&layout=compact" />
 </p>
 
 
