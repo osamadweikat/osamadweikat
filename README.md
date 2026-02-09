@@ -107,12 +107,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=osamadweikat&show_icons=true&theme=tokyonight" alt="Typing SVG" />
 </p>
 
-<hr/>
-
-## 🧩 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=osamadweikat&layout=compact&theme=dark" alt="Typing SVG" />
-</p>
 
 
 <hr/>
@@ -121,12 +115,6 @@
 <p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=osamadweikat&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FF6347&sideNums=FFD700&sideLabels=FF6347" alt="GitHub Streak"/> </p>
 
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=osamadweikat&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=5" />
-</p>
 
 ---
 
